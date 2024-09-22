@@ -1,0 +1,2 @@
+ The purpose of this assignment is to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+ 249 mice were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. Please find a detail analysis of all the observation, results and a summary statistic of the study 
